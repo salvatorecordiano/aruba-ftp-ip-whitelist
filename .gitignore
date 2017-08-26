@@ -1,0 +1,6 @@
+source/node_modules/*
+source/.bash_history
+source/.npm
+source/.pki
+source/.config
+.idea
